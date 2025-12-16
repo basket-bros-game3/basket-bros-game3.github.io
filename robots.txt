@@ -1,2 +1,6 @@
 User-agent: *
-Allow: /
+Disallow: /admin
+
+Allow: /sitemap.xml
+
+Sitemap: https://unblocked-games-67.bitbucket.io/sitemap.xml
